@@ -1,8 +1,8 @@
-## Hi there! My name is Anastasiia Lysenko. I'm a student and a future software developer!
+## Hi there! My name is Anastasiia Lysenko. I'm a Student and a Software Developer Trainee!
 
 ## Education
-<h3>1. National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”(2021 - 2025) - <em>Software Engineering</em><h3>
-<h3>2. Fullstack program(Builders of Future) in Integrify.io Academy(2022.09 - 20XX.XX) - <em>Fullstack developer</em><h3>
+<h3>1. National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute” - <em>Software Engineering</em><h3>
+<h3>2. Fullstack program(Builders of Future) in Integrify.io Academy(2022.09 - 20XX.XX) - <em>Software Developer Trainee</em><h3>
 
 ### Activities
 [![Anastasiia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nanaier&show_icons=true&theme=onedark)](https://github.com/Nanaier/github-readme-stats)
