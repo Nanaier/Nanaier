@@ -8,7 +8,5 @@
 [![Anastasiia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nanaier&show_icons=true&theme=onedark)](https://github.com/Nanaier/github-readme-stats)
 
 ### My languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanaier&hide=TeX)](https://github.com/Nanaier/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanaier&hide=TeX,HTML)](https://github.com/Nanaier/github-readme-stats)
 
-### My best repo
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=Nanaier&repo=kursova_robota)](https://github.com/Nanaier/kursova_robota)
